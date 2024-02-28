@@ -7,6 +7,7 @@ This paper proposes to solve the dynamic job scheduling in the context of CCMS w
 If you find something valuable (maybe), please cite our work as:
 
 @article{wang2024federated,
+
   title={Federated Deep Reinforcement Learning for Dynamic Job Scheduling in Cloud-edge Collaborative Manufacturing Systems},
   
   author={Wang, Xiaohan and Zhang, Lin and Wang, Lihui and Wang, Xi Vincent and Liu, Yongkui},
