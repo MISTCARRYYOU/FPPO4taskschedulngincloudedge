@@ -17,5 +17,5 @@ If you find something valuable (maybe), please cite our work as:
 ## Implementation
 I have simplified the original codes and reserve the core components for execution to make the codes clear and easy to reuse. The local scheduling policies are trained based on multi-CPU to accelerate the training. To start, just run:
 ```python
-python main.FPPO.py
+python main_FPPO.py
 ```
